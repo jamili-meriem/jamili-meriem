@@ -1,6 +1,6 @@
 <!-- Typing animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF2D20&center=true&vCenter=true&width=600&lines=Salut+%F0%9F%91%8B+Je+suis+Meriem+!;Étudiante+en+Génie+Informatique;Passionnée+par+le+Web+%26+Laravel;Toujours+en+train+d'apprendre+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF2D20&center=true&vCenter=true&width=600&lines=Salut+%F0%9F%91%8B+Je+suis+Meriem+!;Étudiante+en+Génie+Informatique;Passionnée+par+le+Web+%26+DevOps;Toujours+en+train+d'apprendre+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <!-- Snake animation sur les contributions -->
@@ -24,7 +24,7 @@
 const meriem = {
   école     : "ENSAH — École Nationale des Sciences Appliquées d'Al Hoceïma",
   niveau    : "1ère année Cycle Ingénieur — Génie Informatique",
-  passion   : ["Développement Web", "Laravel", "Open Source"],
+  passion   : ["Développement Web", "DevOps", "Laravel", "Open Source"],
   objectif  : "Stage d'initiation pour contribuer à des projets concrets",
   fun_fact  : "Je code, je gère des clubs, et je fonde des communautés IT 🚀"
 };
